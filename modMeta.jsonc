@@ -1,0 +1,15 @@
+{
+    "mod_id": "grab_bag_glyphs",
+    "version": "0.0.1",
+    "mod_page_url": "https://github.com/CharlotteDaemon/Grab-Bag-Glyphs",
+    "dll": "GBG.dll",
+    "authors": [ "Charlotte W" ],
+    // "icon": "textures/modIcon",
+    "mappings": "",
+    "dependencies": {
+        "quintessential_core": "[0.10.1,)",
+        "quintessential_data": "[0.10.1,)",
+        "lithos": "[0.0.3,)"
+    },
+    "conflicts": []
+}

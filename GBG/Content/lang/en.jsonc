@@ -1,0 +1,49 @@
+{
+    "grab_bag_glyphs": {
+        "": "Grab Bag Glyphs",
+        "description": "Adds miscellaneous glyphs.",
+        "atoms": {
+            "quickLead": "Sanplumbeus",
+            "quickTin": "Sanstanneus",
+            "quickIron": "Sanferrus",
+            "quickCopper": "Sancuprum",
+            "quickGold":  "Sanaureus"
+        },
+        "parts": {
+            "oldjection": {
+                "": "Glyph of Oldjection",
+                "description": "Exactly like rejection, just using the old RM textures."
+            },
+            "oldivision": {
+                "": "Glyph of Oldivision",
+                "description": "Exactly like division, just using the old RM textures."
+            },
+            "oldliferation": {
+                "": "Glyph of Oldliferation.",
+                "description": "The non-chiral RM variant of Proliferation"
+            },
+            "lojection": {
+                "": "Glyph of Long Projection",
+                "description": "Can project a metal from a distance."
+            },
+            "slowrejection": {
+                "": "Glyph of Slow Rejection",
+                "description": "A cheaper but slower rejection."
+            },
+            "refinement": {
+                "": "Glyph of Refinement",
+                "description": "Purification that doesn't lose metallicity."
+            }
+
+        },
+        "permission_sections": "Grab Bag Blyphs",
+        "permissions": {
+            "oldjection": "Glyph of Oldjection",
+            "oldivision": "Glyph of Oldivision",
+            "oldliferation": "Glyph of Oldliferation",
+            "lojection": "Glyph of Long Rejection",
+            "slowrejection": "Glyph of Slow Rejection",
+            "refinement": "Glyph of Refinement"
+        }
+    }
+}
